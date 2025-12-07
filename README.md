@@ -50,4 +50,4 @@ Tech_Architecture.png
 👤 Author
 Shariq Hassan K H
 Supply Chain & Operations Professional
-Power BI | Excel | Inventory | Logistics
+Power BI | Inventory | Logistics
